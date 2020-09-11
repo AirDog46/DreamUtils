@@ -1,0 +1,61 @@
+main: me.airdog46.utils.MainUtils
+name: DreamUtils
+version: 1.8.3
+author: AirDog46
+commands:
+    freeze:
+        description: Freezes & unfreezes a player
+        usage: gqertgqetgqetgqetge
+        aliases: [ss, screenshare]
+    staffmode:
+        description: Staff mode
+        usage: gqergqwetgqet
+        aliases: [h, modmode, mod]
+    sudo:
+        description: Force a player to say something
+        usage: u don't need to know this
+        aliases: [forcesay]
+    setmaxplayers:
+        description: Modifies the max amount of players on the server
+        usage: no
+        aliases: [setslots, setmaxslots, setlimit, setplayercap]
+    ping:
+        description: Shows the ping of a player
+        usage: no
+    invsee:
+        description: Shows a player's inventory
+        usage: no
+    teleport:
+        description: dc
+        usage: dc
+        aliases: [tp]
+    teleporthere:
+        description: dc
+        usage: dc
+        aliases: [tphere]
+    teleportall:
+        description: dc
+        usage: dc
+        aliases: [tpall]
+    fly:
+        description: Toggle your flight on or off
+        usage: just no
+        aliases: [flight]
+    msg:
+        description: a
+        usage: a
+        aliases: [tell, w, whispher, m]
+    r:
+        description: a
+        usage: a
+        aliases: [reply]
+    list:
+        description: a
+        usage: a
+        aliases: [onlineplayers, who, online]
+    adminchat:
+        description: a
+        aliases: [ac]
+    staffchat:
+        description: a
+        aliases: [sc]
